@@ -54,33 +54,33 @@ The FNP 2023 Analytics Project focuses on analyzing customer behaviour, product 
 
 4. **KPI Creation**
 
-   Some key performance indicators include:
+     Some key performance indicators include:
 
-   Total Orders
+     Total Orders
 
-   Total Revenue
+     Total Revenue
 
-   Average Order Value (AOV)
+     Average Order Value (AOV)
 
-   Top 10 Products
+     Top 10 Products
 
-   Top 10 Cities by Sales
+     Top 10 Cities by Sales
 
-   Occasion-wise Sales Split
+     Occasion-wise Sales Split
 
 5. **Dashboard Development (EXCEL)**
 
-   Interactive visualizations include:
+     Interactive visualizations include:
 
-   Sales by City
+     Sales by City
 
-   Product Category Demand
+     Product Category Demand
 
-   Monthly Trends & Peak Order Times
+     Monthly Trends & Peak Order Times
 
-   Customer Demographic Distribution
+     Customer Demographic Distribution
 
-   Occasion Insights
+     Occasion Insights
 
 📈 **Key Outcomes**
 
