@@ -1,4 +1,4 @@
-🌼 Project Overview – FNP (Ferns N Petals) 2023 Sales & Customer Analytics
+🌼#Project Overview – FNP (Ferns N Petals) 2023 Sales & Customer Analytics
 
 The FNP 2023 Analytics Project focuses on analyzing customer behaviour, product performance, and order trends based on three interconnected datasets: Customers, Orders, and Products. The objective of the project is to generate meaningful business insights that help FNP improve customer experience, increase sales, optimize inventory, and understand occasion-based demand patterns.
 
